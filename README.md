@@ -61,16 +61,16 @@ Here are some ideas to get you started:
 
 **AI / ML, Data & Frameworks**
 <p align="left">
-<img src="https://img.shields.io/badge/-TensorFlow-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-OpenCV-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Streamlit-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Gemini%20API-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-AssemblyAI-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-MediaPipe-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-spaCy-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-NumPy-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Matplotlib-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AssemblyAI-000000?style=for-the-badge" />
 </p>
 
 **Databases**
