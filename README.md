@@ -61,14 +61,16 @@ Here are some ideas to get you started:
 
 **AI / ML, Data & Frameworks**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,streamlit" />
-<img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/-AssemblyAI-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-MediaPipe-0097A7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-spaCy-09A3D5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-TensorFlow-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-OpenCV-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Streamlit-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Gemini%20API-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-AssemblyAI-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-MediaPipe-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-spaCy-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-NumPy-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Matplotlib-333333?style=for-the-badge" />
 </p>
 
 **Databases**
@@ -76,15 +78,20 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-**Tools, Hardware & OS**
+**Tools & Hardware**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,raspberrypi,figma,kali,linux,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,raspberrypi,figma" />
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-WEKA-D71920?style=for-the-badge" />
+</p>
+
+**Operating Systems**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=windows,linux,kali" />
 </p>
 
 ---
